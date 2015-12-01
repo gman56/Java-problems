@@ -145,7 +145,7 @@ public class test {
 	}
 	
 	
-	public static int dumb(int n)
+	public static int trial(int n)
 	{
 		if (n==1)
 		{
