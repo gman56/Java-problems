@@ -155,7 +155,7 @@ public class test {
 		
 		else
 		{
-			return n +dumb(n-1);
+			return n +trial(n-1);
 		}
 		
 	}
